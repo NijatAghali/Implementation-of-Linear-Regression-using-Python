@@ -7,5 +7,10 @@ Y - Qiymet (price) </br></br>
 
 ### Steps of implementation Linear Regression with Numpy:
 1) Calculate cost function. Implement a function which returns cost given true y values, x values and parameters (w) </br>
+![alt text](https://github.com/NijatAghali/Linear-Regression-with-Python-Implementation/blob/master/Images/cost.png "Logo Title Text 1")
+
 2) Normalize data using Z score normalization (recommended). </br>
-3) Implement gradient descent algorithm to minimize the cost function.
+3) Implement gradient descent algorithm to minimize the cost function. </br>
+![alt text](https://github.com/NijatAghali/Linear-Regression-with-Python-Implementation/blob/master/Images/gradient.png "Logo Title Text 1")
+
+
